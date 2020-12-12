@@ -1,0 +1,30 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-color: #2C2416;
+  background-color: #dedede;
+  background-image: url('../img/bg.jpg');
+  background-repeat: repeat;
+}
+div.main h1 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 1.7em;
+}
+div.main h2 {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+div.main ul {
+  text-align: center;
+}
+div.blither {
+  width: 600px;
+  padding: 10px;
+}
+
+div.blither p {
+  font-family: 'Bitter', serif;
+  font-size: 1em;
+}
