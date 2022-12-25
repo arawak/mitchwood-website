@@ -129,7 +129,7 @@ url = "https://www.reddit.com/user/ArawakCC"
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "https://mitchwood.com/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
