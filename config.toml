@@ -144,7 +144,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blitherings"
 weight = 2
-url = "posts/"
+url = "blitherings/"
 
 [[languages.en.menu.main]]
 name = "Projects"
